@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Rudrashetty Tarini**
+<p align="center"># Hi 👋, I'm **Rudrashetty Tarini** </p>
 
 🌐 I'm an adaptable budding software engineer armed with coursework in algorithms, a passion for innovation, and an insatiable curiosity. 💻
 
