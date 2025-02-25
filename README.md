@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi 👋, I'm Rudrashetty Tarini
+🌐 I'm an adaptable budding software engineer armed with coursework in algorithms, a passion for innovation, and an insatiable curiosity. 💻
+Motivated and results-oriented fresher with a strong foundation in Artificial Intelligence, Machine Learning, and scalable application development. Eager to apply problem solving skills in a dynamic, global environment.
+
+📫 Reach me out at tarini.rudrashetty@gmail.com
 
 <!--
 **tarini3301/tarini3301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
