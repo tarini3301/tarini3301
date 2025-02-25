@@ -1,4 +1,4 @@
-#Hi 👋, I'm **Rudrashetty Tarini**
+# Hi 👋, I'm **Rudrashetty Tarini**
 
 🌐 I'm an adaptable budding software engineer armed with coursework in algorithms, a passion for innovation, and an insatiable curiosity. 💻
 
