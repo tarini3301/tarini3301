@@ -1,3 +1,5 @@
+
+
 # <p align="center"> Hi 👋, I'm <strong>Tarini Rudrashetty</strong> </p>
 
 🌐 I'm an adaptable budding software engineer armed with coursework in algorithms, a passion for innovation, and an insatiable curiosity. 💻
@@ -5,9 +7,12 @@
 Motivated and results-oriented fresher with a strong foundation in Artificial Intelligence, Machine Learning, and scalable application development. Eager to apply problem-solving skills in a dynamic, global environment.
 
 ---
+<p align="center">
+  <img src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/header_.png" alt="Banner" width="100%"/>
+</p>
 
 <h3 align="left">
-  📬Let's Connect
+  📬 Let's Connect
 </h3>
 
 <p align="left">
