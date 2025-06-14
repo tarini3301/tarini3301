@@ -1,4 +1,4 @@
-# <p align="center"> Hi 👋, I'm <strong>Rudrashetty Tarini</strong> </p>
+# <p align="center"> Hi 👋, I'm <strong>Tarini Rudrashetty</strong> </p>
 
 🌐 I'm an adaptable budding software engineer armed with coursework in algorithms, a passion for innovation, and an insatiable curiosity. 💻
 
