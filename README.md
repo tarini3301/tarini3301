@@ -7,7 +7,7 @@ Motivated and results-oriented fresher with a strong foundation in Artificial In
 ---
 
 <h3 align="left">
-  <img src="https://img.icons8.com/fluency/48/000000/mailbox-flag-up.png" width="28"/> Let's Connect
+  📬Let's Connect
 </h3>
 
 <p align="left">
