@@ -2,9 +2,9 @@
 
 # <p align="center"> Hi 👋, I'm <strong>Tarini Rudrashetty</strong> </p>
 
-🌐 I'm an adaptable budding software engineer armed with coursework in algorithms, a passion for innovation, and an insatiable curiosity. 💻
+🌐 I'm an adaptable budding software engineer armed with coursework in algorithms, a passion for innovation, and an insatiable curiosity. 
 
-Motivated and results-oriented fresher with a strong foundation in Artificial Intelligence, Machine Learning, and scalable application development. Eager to apply problem-solving skills in a dynamic, global environment.
+💻 Motivated and results-oriented fresher with a strong foundation in Artificial Intelligence, Machine Learning, and scalable application development. Eager to apply problem-solving skills in a dynamic, global environment.
 
 ---
 <p align="center">
